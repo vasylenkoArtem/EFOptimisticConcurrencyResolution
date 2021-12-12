@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfConcurrencyHandling.Data", "EfConcurrencyHandling.Data\EfConcurrencyHandling.Data.csproj", "{ED1051B4-A84C-4C99-9D08-A84AFC5F8558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfConcurrencyHandling.ConsoleApp", "EfConcurrencyHandling.ConsoleApp\EfConcurrencyHandling.ConsoleApp.csproj", "{F4B52173-A458-4A21-962C-D7C1D2CD8111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1051B4-A84C-4C99-9D08-A84AFC5F8558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1051B4-A84C-4C99-9D08-A84AFC5F8558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1051B4-A84C-4C99-9D08-A84AFC5F8558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1051B4-A84C-4C99-9D08-A84AFC5F8558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B52173-A458-4A21-962C-D7C1D2CD8111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B52173-A458-4A21-962C-D7C1D2CD8111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B52173-A458-4A21-962C-D7C1D2CD8111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B52173-A458-4A21-962C-D7C1D2CD8111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
